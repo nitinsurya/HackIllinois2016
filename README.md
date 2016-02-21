@@ -1,4 +1,4 @@
-# HackIllinois2016 #HackIllinois
+# PatPlot(Patient Plot) #HackIllinois
 Critical medical alerts, visualization and data analysis
 
 
@@ -8,7 +8,7 @@ Karthik(Kathi/Lead Architect)
 
 Arun(Hip-Hop dancer/Android warrior)
 
-Heeba(Zumba teacher/Data Science Rockstar)
+Heeba(Zumba instructor/Data Science Rockstar)
 
 Gautham(Jingles/Embedded master)
 
