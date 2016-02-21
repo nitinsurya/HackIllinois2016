@@ -1,0 +1,4 @@
+create database illHack;
+create table ecg_data (id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, deviceId VARCHAR(30) NOT NULL, data_str TEXT);
+create table hospitals ( hid INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, hname varchar(64), address varchar(128), zipcode varchar(7), doc_id INT(6));
+create table doctors ( doc_id  INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, doc_name varchar(64), hid INT(6) UNSIGNED, available TINYINT(1));
