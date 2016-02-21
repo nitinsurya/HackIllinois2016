@@ -1,4 +1,4 @@
-# HackIllinois2016
+# HackIllinois2016 #HackIllinois
 Critical medical alerts, visualization and data analysis
 
 
@@ -12,4 +12,4 @@ Heeba(Zumba teacher/Data Science Rockstar)
 
 Gautham(Jingles/Embedded master)
 
-Myself(Developer) :P
+Myself :P
