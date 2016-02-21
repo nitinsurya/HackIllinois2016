@@ -4,12 +4,12 @@ Critical medical alerts, visualization and data analysis
 
 # CONTRIBUTORS
 
-Karthik(Kathi)
+Karthik(Kathi/Lead Architect)
 
-Arun(Hip-Hop dancer)
+Arun(Hip-Hop dancer/Android warrior)
 
-Heeba(Zumba teacher)
+Heeba(Zumba teacher/Data Science Rockstar)
 
-Gautham(Jinglies)
+Gautham(Jingles/Embedded master)
 
-Myself :P
+Myself(Developer) :P
