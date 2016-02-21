@@ -1,4 +1,4 @@
-# PatPlot(Patient Plot) #HackIllinois
+# HeartCop #HackIllinois
 Critical medical alerts, visualization and data analysis
 
 
