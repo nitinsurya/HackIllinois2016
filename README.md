@@ -5,6 +5,7 @@ Critical medical alerts, visualization and data analysis
 # CONTRIBUTORS
 
 Karthik(Kathi)
+
 Arun(Hip-Hop dancer)
 
 Heeba(Zumba teacher)
