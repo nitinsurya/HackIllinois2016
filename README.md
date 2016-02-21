@@ -4,7 +4,7 @@ Critical medical alerts, visualization and data analysis
 
 # CONTRIBUTORS
 
-Karthik(Kathi/Lead Architect)
+Karthik(Karthi/Lead Architect)
 
 Arun(Hip-Hop dancer/Android warrior)
 
