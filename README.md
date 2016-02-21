@@ -10,6 +10,6 @@ Arun(Hip-Hop dancer)
 
 Heeba(Zumba teacher)
 
-Gautham(Jills)
+Gautham(Jinglies)
 
 Myself :P
