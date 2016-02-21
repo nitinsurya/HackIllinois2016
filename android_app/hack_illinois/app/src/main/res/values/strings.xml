@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hack_illinois</string>
+    <string name="gcmsenderid">1066278669772</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
